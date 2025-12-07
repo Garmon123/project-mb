@@ -11,3 +11,5 @@
   - Flask-SQLAlchemy
   - Flask-JWT-Extended
   - Flask-Migrate
+#Запуск
+- **Для запуска системы аутентификации одновременно запустите main.py и api_test.py**
